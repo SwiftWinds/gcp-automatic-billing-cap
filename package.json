@@ -1,0 +1,11 @@
+{
+  "name": "mc-eternal-emergency-shutdown",
+  "version": "1.0.0",
+  "description": "Automatically shutdown MC Eternal server when $0.01 of non-credit billing is consumed",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SwiftWinds",
+  "license": "MIT"
+}
