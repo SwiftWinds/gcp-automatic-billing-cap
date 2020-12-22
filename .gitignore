@@ -103,6 +103,7 @@ typings/
 
 # dotenv environment variables file
 .env
+.env.yml
 .env.test
 .env*.local
 

@@ -7,5 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "SwiftWinds",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "google-auth-library": "^6.1.3",
+    "googleapis": "^66.0.0"
+  }
 }

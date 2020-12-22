@@ -1,0 +1,18 @@
+{
+  "extends": [
+    "@abhijithvijayan/eslint-config", // or "@abhijithvijayan/eslint-config/typescript",
+    "@abhijithvijayan/eslint-config/node"
+  ],
+  "parserOptions": {
+    // Uncomment both if you are using typescript with node
+    // "project": "./tsconfig.json",
+    // "sourceType": "module" // https://github.com/mysticatea/eslint-plugin-node#-configs
+  },
+  "rules": {
+    // Uncomment if you are using typescript with node(ES Modules)
+    // "node/no-unsupported-features/es-syntax": ["error", {
+    //   "ignores": ["modules"]
+    // }],
+    // your other overrides
+  }
+}
